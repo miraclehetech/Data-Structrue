@@ -1,0 +1,4 @@
+﻿  homework3.cpp
+C:\Users\zheng\Desktop\大学资料\算法与数据结构\homework3\homework3.cpp(134,2): error C3861: “gets”: 找不到标识符
+C:\Users\zheng\Desktop\大学资料\算法与数据结构\homework3\homework3.cpp(140,3): error C3861: “gets”: 找不到标识符
+C:\Users\zheng\Desktop\大学资料\算法与数据结构\homework3\homework3.cpp(151,3): error C3861: “gets”: 找不到标识符

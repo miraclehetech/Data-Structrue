@@ -19,7 +19,7 @@ typedef struct
 	Link head, tail;
 	int len;
 
-}Linklist;
+}LinkList;
 int cmp(char id1, char id2)
 {
 	if (id1 == 'A')

@@ -1,0 +1,1022 @@
+100
+dequeue
+dequeue
+dequeue
+enqueue 999636715
+dequeue
+enqueue 999637142
+dequeue
+max
+dequeue
+enqueue 999639406
+dequeue
+enqueue 999638231
+dequeue
+dequeue
+enqueue 999634229
+max
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 999631594
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 999633314
+enqueue 999632465
+dequeue
+dequeue
+enqueue 999637794
+max
+enqueue 999638740
+dequeue
+dequeue
+enqueue 999633465
+enqueue 999630651
+enqueue 999638768
+dequeue
+max
+enqueue 999632633
+dequeue
+enqueue 999632151
+enqueue 999638571
+enqueue 999635175
+enqueue 999639280
+dequeue
+enqueue 999630812
+enqueue 999638273
+enqueue 999639479
+enqueue 999635475
+enqueue 999635688
+enqueue 999637711
+enqueue 999631753
+enqueue 999632318
+enqueue 999635208
+enqueue 999636222
+enqueue 999633610
+enqueue 999635980
+max
+enqueue 999632968
+enqueue 999637674
+dequeue
+enqueue 999638803
+dequeue
+enqueue 999634858
+enqueue 999633424
+enqueue 999639025
+enqueue 999639590
+dequeue
+enqueue 999632375
+enqueue 999634314
+enqueue 999639328
+enqueue 999631161
+enqueue 999637751
+enqueue 999635732
+enqueue 999639735
+enqueue 999630906
+enqueue 999639739
+enqueue 999631540
+enqueue 999635692
+enqueue 999639841
+enqueue 999630799
+enqueue 999637495
+max
+enqueue 999639855
+max
+enqueue 999632126
+enqueue 999634464
+enqueue 999639689
+dequeue
+enqueue 999638686
+enqueue 999632920
+enqueue 999637709
+max
+enqueue 999630920
+enqueue 999631961
+dequeue
+enqueue 999638025
+enqueue 999639003
+dequeue
+dequeue
+enqueue 999634884
+enqueue 999632795
+max
+max
+enqueue 999637111
+enqueue 999633825
+enqueue 999634505
+enqueue 999638938
+enqueue 999631588
+enqueue 999637891
+enqueue 999632831
+enqueue 999630093
+enqueue 999631340
+enqueue 999631308
+enqueue 999635208
+dequeue
+dequeue
+enqueue 999634627
+enqueue 999639021
+enqueue 999632016
+max
+enqueue 999634614
+enqueue 999637670
+enqueue 999631590
+enqueue 999636840
+enqueue 999632606
+enqueue 999633085
+dequeue
+max
+enqueue 999636177
+enqueue 999631537
+max
+enqueue 999634721
+enqueue 999636800
+enqueue 999636923
+enqueue 999639418
+dequeue
+enqueue 999637502
+enqueue 999639447
+max
+enqueue 999637911
+enqueue 999632649
+enqueue 999639622
+enqueue 999638797
+enqueue 999637797
+dequeue
+enqueue 999636720
+enqueue 999631887
+enqueue 999630571
+enqueue 999637759
+enqueue 999632390
+enqueue 999639891
+enqueue 999631960
+enqueue 999637376
+enqueue 999632467
+enqueue 999634619
+enqueue 999632682
+enqueue 999633124
+dequeue
+enqueue 999638820
+enqueue 999635634
+enqueue 999634271
+enqueue 999635462
+enqueue 999639018
+enqueue 999634242
+enqueue 999633919
+max
+enqueue 999638448
+enqueue 999631368
+dequeue
+enqueue 999629967
+enqueue 999632093
+enqueue 999635645
+enqueue 999632373
+enqueue 999631602
+enqueue 999639446
+dequeue
+max
+dequeue
+enqueue 999630536
+enqueue 999638531
+enqueue 999631338
+enqueue 999639028
+enqueue 999638762
+dequeue
+enqueue 999639831
+max
+enqueue 999631034
+dequeue
+enqueue 999631254
+enqueue 999637405
+enqueue 999634489
+enqueue 999630203
+dequeue
+enqueue 999631315
+enqueue 999639742
+max
+dequeue
+max
+enqueue 999622071
+max
+dequeue
+max
+enqueue 999622525
+max
+dequeue
+dequeue
+enqueue 999629271
+enqueue 999621132
+max
+enqueue 999621462
+max
+max
+dequeue
+dequeue
+enqueue 999620716
+max
+enqueue 999626508
+dequeue
+enqueue 999626038
+max
+dequeue
+dequeue
+enqueue 999622061
+max
+enqueue 999625129
+dequeue
+max
+enqueue 999629858
+dequeue
+enqueue 999622371
+max
+dequeue
+enqueue 999621225
+dequeue
+max
+enqueue 999621517
+max
+dequeue
+enqueue 999629813
+max
+enqueue 999628589
+enqueue 999625876
+max
+dequeue
+enqueue 999627494
+dequeue
+max
+enqueue 999626416
+dequeue
+enqueue 999628669
+dequeue
+max
+dequeue
+max
+dequeue
+max
+enqueue 999621632
+max
+max
+enqueue 999626449
+max
+enqueue 999624488
+max
+enqueue 999629510
+dequeue
+enqueue 999623192
+max
+dequeue
+enqueue 999624045
+max
+enqueue 999628399
+dequeue
+dequeue
+max
+enqueue 999627951
+max
+enqueue 999620210
+max
+dequeue
+enqueue 999623364
+max
+dequeue
+dequeue
+enqueue 999624221
+enqueue 999623057
+max
+max
+dequeue
+max
+enqueue 999626085
+max
+dequeue
+enqueue 999627062
+max
+dequeue
+max
+enqueue 999627740
+dequeue
+enqueue 999629664
+dequeue
+max
+enqueue 999626430
+max
+dequeue
+max
+enqueue 999627746
+dequeue
+enqueue 999626908
+enqueue 999623864
+dequeue
+enqueue 999621345
+max
+dequeue
+enqueue 999624150
+dequeue
+enqueue 999629035
+dequeue
+enqueue 999626295
+max
+dequeue
+max
+max
+max
+enqueue 999629706
+max
+max
+dequeue
+enqueue 999629390
+dequeue
+dequeue
+max
+enqueue 999624422
+enqueue 999620970
+dequeue
+enqueue 999629502
+enqueue 999626629
+dequeue
+max
+enqueue 999621025
+max
+dequeue
+max
+enqueue 999628867
+dequeue
+enqueue 999626214
+max
+dequeue
+max
+enqueue 999620944
+max
+enqueue 999624137
+enqueue 999628411
+enqueue 999623618
+max
+dequeue
+enqueue 999627814
+max
+dequeue
+enqueue 999623482
+max
+dequeue
+max
+enqueue 999627543
+max
+dequeue
+max
+enqueue 999624053
+dequeue
+max
+enqueue 999629265
+max
+dequeue
+max
+dequeue
+enqueue 999622821
+enqueue 999625704
+max
+dequeue
+max
+enqueue 999624559
+dequeue
+max
+enqueue 999623391
+dequeue
+max
+enqueue 999629825
+max
+dequeue
+max
+enqueue 999625186
+max
+dequeue
+max
+dequeue
+max
+enqueue 999626450
+max
+enqueue 999628532
+max
+dequeue
+dequeue
+enqueue 999629073
+max
+enqueue 999619925
+dequeue
+enqueue 999629375
+max
+dequeue
+enqueue 999621512
+dequeue
+max
+enqueue 999621175
+dequeue
+enqueue 999626496
+dequeue
+dequeue
+enqueue 999620166
+enqueue 999626053
+dequeue
+enqueue 999621761
+dequeue
+enqueue 999626549
+max
+dequeue
+enqueue 999620380
+max
+dequeue
+enqueue 999623319
+dequeue
+enqueue 999627001
+dequeue
+max
+enqueue 999627818
+max
+dequeue
+max
+max
+dequeue
+enqueue 999623594
+enqueue 999620243
+max
+dequeue
+dequeue
+enqueue 999620500
+enqueue 999626814
+max
+dequeue
+enqueue 999620890
+dequeue
+max
+enqueue 999620949
+dequeue
+enqueue 999628760
+dequeue
+max
+dequeue
+dequeue
+enqueue 999627580
+max
+enqueue 999625594
+max
+enqueue 999626171
+dequeue
+max
+enqueue 999626940
+dequeue
+enqueue 999629260
+max
+max
+dequeue
+max
+enqueue 999627206
+dequeue
+enqueue 999620531
+dequeue
+enqueue 999625860
+enqueue 999622756
+dequeue
+enqueue 999623862
+max
+dequeue
+enqueue 999622804
+dequeue
+enqueue 999629341
+max
+dequeue
+enqueue 999624355
+max
+max
+dequeue
+enqueue 999627563
+dequeue
+max
+dequeue
+enqueue 999629711
+enqueue 999628854
+max
+dequeue
+enqueue 999629485
+max
+dequeue
+max
+enqueue 999629896
+dequeue
+enqueue 999627356
+dequeue
+max
+enqueue 999627109
+dequeue
+enqueue 999621310
+max
+dequeue
+max
+enqueue 999628774
+dequeue
+enqueue 999625363
+max
+enqueue 999623426
+dequeue
+dequeue
+enqueue 999623092
+max
+enqueue 999626867
+max
+dequeue
+enqueue 999629227
+max
+enqueue 999621430
+max
+dequeue
+dequeue
+max
+dequeue
+max
+enqueue 999621640
+enqueue 999623164
+max
+enqueue 999624859
+dequeue
+enqueue 999626271
+max
+enqueue 999620238
+max
+dequeue
+max
+enqueue 999619905
+dequeue
+max
+enqueue 999628138
+dequeue
+max
+enqueue 999622021
+enqueue 999627947
+dequeue
+max
+enqueue 999624213
+dequeue
+enqueue 999620932
+dequeue
+max
+max
+enqueue 999627477
+enqueue 999621125
+max
+dequeue
+enqueue 999620736
+dequeue
+enqueue 999621825
+max
+enqueue 999625512
+max
+max
+enqueue 999624916
+max
+dequeue
+enqueue 999626061
+dequeue
+enqueue 999621461
+max
+dequeue
+enqueue 999624724
+max
+dequeue
+dequeue
+dequeue
+max
+enqueue 999622274
+dequeue
+max
+enqueue 999628459
+enqueue 999623734
+enqueue 999623785
+dequeue
+dequeue
+max
+enqueue 999623377
+enqueue 999629062
+dequeue
+dequeue
+max
+enqueue 999625753
+dequeue
+max
+enqueue 999624026
+max
+enqueue 999626892
+enqueue 999628602
+dequeue
+enqueue 999625234
+dequeue
+max
+enqueue 999624942
+dequeue
+enqueue 999624081
+dequeue
+enqueue 999621114
+dequeue
+max
+enqueue 999625553
+enqueue 999620185
+max
+dequeue
+dequeue
+dequeue
+max
+enqueue 999628350
+enqueue 999624698
+max
+enqueue 999623775
+dequeue
+max
+enqueue 999626580
+dequeue
+dequeue
+max
+enqueue 999624248
+enqueue 999623401
+max
+dequeue
+enqueue 999623292
+max
+dequeue
+enqueue 999625149
+dequeue
+max
+enqueue 999625809
+dequeue
+max
+enqueue 999629088
+max
+dequeue
+enqueue 999627930
+max
+dequeue
+enqueue 999625899
+dequeue
+max
+enqueue 999620102
+dequeue
+enqueue 999621136
+enqueue 999623914
+max
+dequeue
+max
+dequeue
+dequeue
+max
+enqueue 999626665
+enqueue 999629563
+dequeue
+dequeue
+dequeue
+max
+enqueue 999626007
+enqueue 999625680
+enqueue 999623828
+max
+enqueue 999621488
+dequeue
+max
+enqueue 999620336
+max
+dequeue
+max
+enqueue 999629593
+max
+dequeue
+max
+enqueue 999625681
+max
+dequeue
+dequeue
+max
+enqueue 999622505
+enqueue 999623477
+max
+max
+dequeue
+dequeue
+max
+enqueue 999626509
+max
+enqueue 999623807
+dequeue
+enqueue 999629715
+max
+enqueue 999626522
+dequeue
+max
+max
+enqueue 999625380
+max
+dequeue
+max
+enqueue 999622452
+enqueue 999629807
+dequeue
+enqueue 999627041
+max
+dequeue
+enqueue 999623061
+max
+dequeue
+max
+enqueue 999622690
+max
+dequeue
+enqueue 999623940
+max
+dequeue
+max
+enqueue 999628492
+max
+dequeue
+enqueue 999620311
+dequeue
+dequeue
+enqueue 999628401
+max
+enqueue 999624151
+max
+dequeue
+enqueue 999621745
+dequeue
+max
+enqueue 999629627
+max
+dequeue
+max
+enqueue 999622247
+dequeue
+max
+dequeue
+dequeue
+enqueue 999623992
+max
+enqueue 999626400
+dequeue
+enqueue 999625349
+max
+enqueue 999624574
+max
+enqueue 999624111
+dequeue
+dequeue
+enqueue 999625116
+max
+enqueue 999626406
+max
+dequeue
+max
+enqueue 999629878
+dequeue
+max
+enqueue 999622644
+max
+dequeue
+max
+enqueue 999623691
+max
+dequeue
+enqueue 999621848
+dequeue
+max
+enqueue 999626764
+dequeue
+dequeue
+max
+dequeue
+enqueue 999626131
+enqueue 999627595
+max
+enqueue 999621198
+max
+dequeue
+max
+enqueue 999621716
+dequeue
+max
+enqueue 999620274
+dequeue
+max
+enqueue 999621615
+max
+enqueue 999626448
+enqueue 999627280
+max
+dequeue
+max
+enqueue 999627871
+dequeue
+max
+enqueue 999621929
+max
+dequeue
+max
+enqueue 999629581
+max
+dequeue
+max
+enqueue 999621142
+max
+dequeue
+enqueue 999629397
+max
+dequeue
+max
+enqueue 999625647
+max
+enqueue 999621039
+max
+enqueue 999622246
+max
+enqueue 999624752
+enqueue 999624948
+max
+dequeue
+max
+enqueue 999624274
+dequeue
+max
+enqueue 999626089
+max
+enqueue 999625263
+dequeue
+max
+max
+enqueue 999628286
+max
+dequeue
+max
+dequeue
+enqueue 999620084
+enqueue 999622289
+dequeue
+enqueue 999621667
+dequeue
+max
+dequeue
+max
+enqueue 999624281
+max
+enqueue 999626949
+max
+dequeue
+enqueue 999625239
+dequeue
+enqueue 999622590
+dequeue
+dequeue
+dequeue
+enqueue 999623072
+enqueue 999623725
+enqueue 999626732
+max
+dequeue
+max
+enqueue 999629509
+dequeue
+max
+enqueue 999626769
+dequeue
+enqueue 999621484
+max
+dequeue
+max
+enqueue 999627047
+max
+dequeue
+enqueue 999629509
+max
+dequeue
+max
+enqueue 999625124
+dequeue
+enqueue 999623348
+dequeue
+enqueue 999625018
+max
+enqueue 999627551
+dequeue
+max
+enqueue 999626890
+max
+dequeue
+dequeue
+max
+enqueue 999623959
+enqueue 999623888
+dequeue
+enqueue 999626441
+max
+dequeue
+enqueue 999625725
+enqueue 999623998
+max
+dequeue
+max
+dequeue
+enqueue 999625362
+dequeue
+max
+enqueue 999620955
+max
+enqueue 999625864
+max
+dequeue
+enqueue 999627656
+dequeue
+enqueue 999622636
+max
+dequeue
+max
+enqueue 999624327
+max
+dequeue
+enqueue 999628251
+dequeue
+max
+enqueue 999620037
+max
+dequeue
+max
+enqueue 999623391
+dequeue
+max
+enqueue 999627723
+dequeue
+max
+enqueue 999625064
+dequeue
+enqueue 999622402
+dequeue
+dequeue
+max
+enqueue 999625658
+enqueue 999620019
+max
+enqueue 999625111
+max
+dequeue
+max
+enqueue 999629662
+dequeue
+max
+dequeue
+enqueue 999624874
+enqueue 999619989
+max
+dequeue
+max
+enqueue 999626964
+max
+dequeue
+dequeue
+max
+max
+enqueue 999626559
+dequeue
+max
+enqueue 999623943
+enqueue 999619924
+enqueue 999626243
+dequeue
+dequeue
+enqueue 999620875
+dequeue
+enqueue 999628556
+enqueue 999622090
+dequeue
+max
+enqueue 999622176
+max
+dequeue
+max
+dequeue
+max
+enqueue 999621372
+max
+max
+enqueue 999622734
+max
+dequeue
+max
+enqueue 999623586
+dequeue
+max
+enqueue 999628255
+max
+dequeue
+enqueue 999625063
+quit

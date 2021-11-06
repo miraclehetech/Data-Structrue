@@ -1,0 +1,1049 @@
+100
+dequeue
+dequeue
+dequeue
+max
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 157425082
+enqueue 157428801
+dequeue
+dequeue
+enqueue 157430705
+dequeue
+enqueue 157429534
+dequeue
+dequeue
+dequeue
+enqueue 157430761
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 157427723
+dequeue
+enqueue 157421668
+enqueue 157425985
+dequeue
+enqueue 157427525
+dequeue
+dequeue
+enqueue 157422466
+enqueue 157424608
+enqueue 157428741
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 157424467
+enqueue 157426015
+enqueue 157431256
+dequeue
+dequeue
+enqueue 157424865
+enqueue 157425271
+dequeue
+enqueue 157421747
+enqueue 157426934
+dequeue
+enqueue 157424751
+dequeue
+enqueue 157425085
+enqueue 157425560
+max
+enqueue 157429965
+enqueue 157424847
+enqueue 157427752
+enqueue 157428457
+dequeue
+max
+dequeue
+enqueue 157430297
+enqueue 157429752
+enqueue 157424001
+enqueue 157424184
+max
+enqueue 157428291
+max
+enqueue 157422700
+enqueue 157430056
+enqueue 157428489
+dequeue
+dequeue
+dequeue
+enqueue 157425893
+enqueue 157428677
+enqueue 157426203
+enqueue 157425862
+enqueue 157430118
+enqueue 157426167
+enqueue 157423631
+enqueue 157424309
+enqueue 157426889
+enqueue 157421982
+enqueue 157425930
+max
+enqueue 157426363
+enqueue 157424804
+max
+dequeue
+enqueue 157428460
+enqueue 157424742
+enqueue 157430491
+enqueue 157431500
+enqueue 157426888
+enqueue 157425401
+enqueue 157428927
+enqueue 157423185
+enqueue 157431017
+enqueue 157427575
+enqueue 157423481
+enqueue 157430564
+dequeue
+enqueue 157425210
+enqueue 157427520
+enqueue 157428957
+enqueue 157425929
+enqueue 157426936
+enqueue 157426021
+enqueue 157421903
+enqueue 157427452
+enqueue 157428411
+enqueue 157425430
+enqueue 157424519
+enqueue 157423642
+enqueue 157422448
+enqueue 157422998
+enqueue 157427259
+enqueue 157423621
+dequeue
+enqueue 157421673
+max
+enqueue 157426351
+enqueue 157428371
+enqueue 157429248
+enqueue 157430408
+enqueue 157427849
+enqueue 157425237
+max
+enqueue 157426086
+enqueue 157426952
+max
+dequeue
+enqueue 157428231
+enqueue 157431093
+enqueue 157428607
+enqueue 157421540
+enqueue 157428044
+enqueue 157422616
+dequeue
+enqueue 157421600
+enqueue 157423983
+enqueue 157423637
+enqueue 157428796
+enqueue 157425793
+max
+enqueue 157421641
+enqueue 157428410
+dequeue
+enqueue 157425331
+dequeue
+enqueue 157424032
+enqueue 157430042
+dequeue
+enqueue 157427979
+enqueue 157430548
+enqueue 157425860
+dequeue
+enqueue 157425030
+enqueue 157430149
+enqueue 157427712
+dequeue
+enqueue 157426561
+dequeue
+enqueue 157429233
+enqueue 157429064
+enqueue 157422728
+enqueue 157429326
+enqueue 157430689
+enqueue 157425345
+max
+enqueue 157431425
+enqueue 157427000
+enqueue 157427752
+enqueue 157423020
+enqueue 157428896
+enqueue 157430299
+max
+enqueue 157426238
+dequeue
+dequeue
+enqueue 157425730
+dequeue
+enqueue 157429777
+dequeue
+enqueue 157423325
+enqueue 157430713
+enqueue 157425900
+enqueue 157431026
+enqueue 157431082
+enqueue 157430243
+dequeue
+enqueue 157426954
+enqueue 157425921
+enqueue 157423455
+dequeue
+enqueue 157428909
+enqueue 157426233
+max
+dequeue
+enqueue 157426556
+enqueue 157421855
+enqueue 157430650
+max
+enqueue 157424776
+max
+enqueue 157422279
+enqueue 157430872
+enqueue 157428503
+dequeue
+max
+enqueue 157426122
+max
+dequeue
+max
+enqueue 157428996
+dequeue
+enqueue 157421966
+max
+dequeue
+max
+enqueue 157425785
+max
+dequeue
+max
+enqueue 157424015
+dequeue
+max
+enqueue 157426943
+dequeue
+max
+dequeue
+max
+enqueue 157431237
+enqueue 157423199
+max
+dequeue
+enqueue 157422386
+max
+dequeue
+max
+enqueue 157426420
+max
+dequeue
+max
+max
+enqueue 157422719
+max
+dequeue
+max
+enqueue 157423319
+dequeue
+enqueue 157431199
+max
+dequeue
+max
+enqueue 157423975
+max
+dequeue
+enqueue 157423399
+max
+dequeue
+max
+enqueue 157427897
+dequeue
+max
+enqueue 157430238
+max
+dequeue
+max
+enqueue 157421809
+enqueue 157425452
+dequeue
+dequeue
+enqueue 157423808
+enqueue 157423910
+max
+dequeue
+dequeue
+enqueue 157427893
+max
+enqueue 157430792
+dequeue
+max
+dequeue
+dequeue
+max
+enqueue 157427126
+enqueue 157422786
+enqueue 157422859
+max
+enqueue 157423460
+dequeue
+enqueue 157431529
+max
+dequeue
+enqueue 157431056
+dequeue
+max
+enqueue 157425851
+dequeue
+enqueue 157421806
+max
+dequeue
+max
+max
+enqueue 157429361
+max
+dequeue
+max
+enqueue 157426593
+enqueue 157430501
+enqueue 157429787
+max
+dequeue
+enqueue 157423449
+max
+dequeue
+enqueue 157426340
+max
+max
+dequeue
+max
+enqueue 157424129
+dequeue
+enqueue 157425760
+max
+dequeue
+enqueue 157427661
+max
+dequeue
+enqueue 157427429
+max
+dequeue
+max
+enqueue 157423734
+dequeue
+dequeue
+dequeue
+enqueue 157421539
+enqueue 157426035
+dequeue
+enqueue 157423324
+enqueue 157425328
+max
+dequeue
+max
+enqueue 157421755
+enqueue 157429639
+dequeue
+max
+enqueue 157427749
+dequeue
+max
+dequeue
+enqueue 157423288
+enqueue 157429313
+max
+dequeue
+max
+max
+enqueue 157423607
+max
+max
+dequeue
+enqueue 157425327
+dequeue
+enqueue 157423645
+max
+dequeue
+enqueue 157423075
+dequeue
+max
+enqueue 157430684
+enqueue 157423379
+dequeue
+max
+max
+enqueue 157427983
+dequeue
+enqueue 157424797
+max
+dequeue
+enqueue 157423579
+max
+dequeue
+max
+enqueue 157431101
+max
+dequeue
+max
+dequeue
+enqueue 157428168
+max
+enqueue 157422312
+max
+dequeue
+enqueue 157422887
+max
+dequeue
+max
+enqueue 157423412
+max
+dequeue
+enqueue 157424575
+dequeue
+enqueue 157430469
+max
+dequeue
+dequeue
+max
+dequeue
+enqueue 157422815
+dequeue
+max
+enqueue 157422930
+enqueue 157431334
+max
+max
+enqueue 157430129
+enqueue 157423443
+dequeue
+max
+enqueue 157426457
+max
+dequeue
+max
+enqueue 157425279
+dequeue
+enqueue 157429795
+dequeue
+enqueue 157422928
+max
+dequeue
+max
+enqueue 157426266
+enqueue 157423613
+max
+dequeue
+enqueue 157431514
+max
+dequeue
+max
+enqueue 157425957
+dequeue
+max
+enqueue 157422348
+dequeue
+enqueue 157426995
+dequeue
+max
+enqueue 157427394
+dequeue
+max
+enqueue 157429015
+dequeue
+enqueue 157428897
+max
+dequeue
+dequeue
+dequeue
+max
+enqueue 157428064
+dequeue
+dequeue
+enqueue 157430107
+enqueue 157427701
+max
+enqueue 157429231
+max
+enqueue 157430302
+dequeue
+max
+enqueue 157427247
+max
+dequeue
+dequeue
+dequeue
+max
+enqueue 157423037
+dequeue
+max
+enqueue 157429515
+enqueue 157429065
+max
+enqueue 157426547
+dequeue
+max
+enqueue 157423132
+dequeue
+enqueue 157422298
+max
+dequeue
+dequeue
+enqueue 157423398
+enqueue 157427242
+enqueue 157424756
+dequeue
+max
+enqueue 157421965
+dequeue
+max
+dequeue
+enqueue 157431393
+enqueue 157426285
+max
+dequeue
+enqueue 157425085
+dequeue
+max
+enqueue 157425737
+dequeue
+enqueue 157429551
+dequeue
+max
+enqueue 157429462
+dequeue
+max
+dequeue
+dequeue
+max
+enqueue 157421540
+enqueue 157431387
+max
+dequeue
+max
+enqueue 157430346
+max
+enqueue 157421650
+max
+dequeue
+max
+enqueue 157424603
+dequeue
+max
+enqueue 157430184
+dequeue
+enqueue 157425840
+max
+dequeue
+dequeue
+enqueue 157431348
+dequeue
+max
+enqueue 157424418
+max
+dequeue
+max
+dequeue
+dequeue
+max
+enqueue 157425104
+max
+enqueue 157424503
+enqueue 157422969
+enqueue 157424766
+max
+dequeue
+dequeue
+max
+dequeue
+max
+enqueue 157430926
+max
+enqueue 157424555
+max
+max
+enqueue 157426246
+max
+dequeue
+max
+enqueue 157429920
+dequeue
+max
+enqueue 157421994
+enqueue 157428824
+max
+dequeue
+max
+enqueue 157424886
+max
+enqueue 157427630
+dequeue
+max
+dequeue
+max
+max
+enqueue 157431478
+dequeue
+max
+enqueue 157422571
+max
+enqueue 157426024
+max
+enqueue 157423347
+dequeue
+max
+enqueue 157427929
+dequeue
+enqueue 157421832
+dequeue
+enqueue 157423194
+dequeue
+max
+enqueue 157425277
+max
+max
+dequeue
+max
+enqueue 157427841
+dequeue
+max
+max
+dequeue
+enqueue 157430976
+enqueue 157425819
+dequeue
+enqueue 157429733
+max
+dequeue
+enqueue 157422430
+enqueue 157422388
+max
+dequeue
+max
+enqueue 157426437
+enqueue 157428456
+max
+max
+dequeue
+max
+enqueue 157422230
+dequeue
+dequeue
+max
+enqueue 157429576
+max
+enqueue 157429854
+enqueue 157431163
+dequeue
+max
+max
+enqueue 157431139
+dequeue
+max
+enqueue 157428410
+max
+dequeue
+enqueue 157422068
+max
+dequeue
+max
+dequeue
+max
+enqueue 157430246
+enqueue 157428705
+max
+dequeue
+enqueue 157424623
+dequeue
+enqueue 157424467
+max
+dequeue
+max
+enqueue 157425058
+max
+dequeue
+dequeue
+enqueue 157421664
+dequeue
+enqueue 157429240
+dequeue
+max
+dequeue
+dequeue
+dequeue
+max
+enqueue 157430834
+dequeue
+enqueue 157431306
+max
+dequeue
+max
+enqueue 157422824
+dequeue
+max
+dequeue
+max
+enqueue 157425673
+max
+max
+enqueue 157427849
+dequeue
+dequeue
+max
+dequeue
+enqueue 157422874
+max
+enqueue 157425148
+enqueue 157425821
+max
+enqueue 157422088
+enqueue 157421749
+enqueue 157422250
+enqueue 157425712
+max
+dequeue
+max
+enqueue 157430714
+dequeue
+enqueue 157422724
+dequeue
+dequeue
+enqueue 157425829
+max
+enqueue 157428554
+dequeue
+dequeue
+max
+enqueue 157428342
+enqueue 157422392
+dequeue
+enqueue 157423114
+max
+max
+enqueue 157430384
+max
+dequeue
+enqueue 157427946
+max
+enqueue 157425611
+dequeue
+dequeue
+dequeue
+max
+enqueue 157426284
+max
+enqueue 157429246
+max
+dequeue
+max
+enqueue 157430574
+dequeue
+enqueue 157422955
+max
+max
+enqueue 157427303
+dequeue
+max
+enqueue 157427348
+dequeue
+max
+enqueue 157427377
+max
+dequeue
+enqueue 157424026
+dequeue
+dequeue
+enqueue 157423853
+enqueue 157422971
+dequeue
+max
+dequeue
+enqueue 157430713
+enqueue 157425419
+dequeue
+dequeue
+dequeue
+enqueue 157430335
+dequeue
+max
+enqueue 157422901
+enqueue 157423336
+dequeue
+max
+dequeue
+max
+enqueue 157423741
+max
+enqueue 157424667
+enqueue 157422180
+max
+enqueue 157428180
+max
+dequeue
+max
+enqueue 157422732
+dequeue
+max
+enqueue 157422325
+dequeue
+enqueue 157423691
+max
+dequeue
+dequeue
+max
+enqueue 157426234
+dequeue
+max
+enqueue 157422731
+enqueue 157423474
+dequeue
+max
+dequeue
+enqueue 157431114
+max
+dequeue
+max
+enqueue 157428750
+enqueue 157422456
+max
+dequeue
+enqueue 157427781
+max
+dequeue
+max
+enqueue 157426669
+dequeue
+enqueue 157430981
+enqueue 157427173
+dequeue
+max
+enqueue 157428952
+max
+dequeue
+enqueue 157421930
+dequeue
+max
+enqueue 157423993
+dequeue
+enqueue 157421813
+max
+max
+dequeue
+max
+enqueue 157427245
+dequeue
+max
+enqueue 157421948
+dequeue
+max
+enqueue 157428187
+dequeue
+max
+enqueue 157429774
+max
+dequeue
+dequeue
+max
+enqueue 157430458
+max
+dequeue
+enqueue 157424571
+max
+max
+dequeue
+max
+enqueue 157426960
+enqueue 157422058
+max
+max
+dequeue
+enqueue 157431518
+dequeue
+max
+enqueue 157422853
+max
+dequeue
+max
+enqueue 157425357
+dequeue
+max
+enqueue 157423640
+dequeue
+max
+enqueue 157429787
+max
+dequeue
+max
+max
+enqueue 157428601
+dequeue
+enqueue 157422893
+max
+dequeue
+max
+enqueue 157428232
+max
+dequeue
+enqueue 157427521
+dequeue
+max
+enqueue 157428269
+dequeue
+max
+dequeue
+enqueue 157430972
+max
+enqueue 157431385
+max
+enqueue 157429798
+dequeue
+max
+enqueue 157423847
+enqueue 157422819
+max
+dequeue
+max
+enqueue 157424802
+dequeue
+max
+enqueue 157426529
+dequeue
+max
+enqueue 157429984
+max
+dequeue
+max
+dequeue
+dequeue
+max
+max
+enqueue 157426896
+max
+enqueue 157425411
+enqueue 157426788
+dequeue
+enqueue 157422621
+max
+dequeue
+dequeue
+max
+max
+enqueue 157422290
+max
+dequeue
+enqueue 157423240
+enqueue 157428502
+max
+dequeue
+max
+enqueue 157429161
+dequeue
+max
+enqueue 157424918
+enqueue 157429550
+dequeue
+max
+max
+enqueue 157428534
+max
+dequeue
+dequeue
+dequeue
+enqueue 157426849
+dequeue
+max
+enqueue 157425478
+enqueue 157423725
+enqueue 157422287
+max
+dequeue
+max
+enqueue 157428467
+dequeue
+enqueue 157429611
+max
+dequeue
+enqueue 157430121
+max
+max
+dequeue
+max
+enqueue 157430209
+max
+dequeue
+enqueue 157431264
+max
+dequeue
+dequeue
+max
+enqueue 157426856
+max
+enqueue 157426577
+dequeue
+max
+enqueue 157425299
+enqueue 157426440
+max
+dequeue
+enqueue 157430532
+dequeue
+max
+max
+dequeue
+dequeue
+enqueue 157424532
+enqueue 157429366
+max
+enqueue 157429042
+dequeue
+max
+enqueue 157426683
+dequeue
+max
+enqueue 157425323
+max
+dequeue
+enqueue 157428517
+max
+dequeue
+max
+enqueue 157423720
+dequeue
+enqueue 157430763
+enqueue 157423188
+dequeue
+max
+enqueue 157429052
+max
+enqueue 157425473
+dequeue
+enqueue 157428430
+dequeue
+enqueue 157423031
+dequeue
+max
+[2-b5-01]
+enqueue 157429755
+max
+enqueue 157424628
+dequeue
+max
+enqueue 157422139
+max
+dequeue
+max
+enqueue 157423971
+max
+quit

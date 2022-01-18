@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="STL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myVector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myForward_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myDeque.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mySet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myMultimap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myMultiSet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myUnorder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myStackAndQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myAlgorithm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tupleAndBitset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myVector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myForward_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myDeque.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mySet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myAlgorithm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myStackAndQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tupleAndBitset.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
